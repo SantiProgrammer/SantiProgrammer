@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **TS,Nest.js,Next.js**
 
-- 👨‍💻 All of my projects are available at [https://thisissanti.dev/portfolio](https://thisissanti.dev/portfolio)
-
+- 👨‍💻 All of my projects are available at 
 - ⚡ Fun fact **Love Workout**
 
 <h3 align="center">Connect with me:</h3>
